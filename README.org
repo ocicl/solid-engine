@@ -1,0 +1,10 @@
+* solid-engine
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://bitbucket.org/reginleif/solid-engine.git   |
+| commit  |   |
+| systems | solid-engine |
+|---------+-------------------------------------------|
+
