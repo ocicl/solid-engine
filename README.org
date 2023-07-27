@@ -1,10 +1,9 @@
 * solid-engine
 
+The Common Lisp stack-based application controller
 
-
-|---------+-------------------------------------------|
-| source  | git:https://bitbucket.org/reginleif/solid-engine.git   |
-| commit  |   |
-| systems | solid-engine |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://bitbucket.org/reginleif/solid-engine.git |
+| commit  | bb94e90                                              |
+| systems | solid-engine                                         |
+|---------+------------------------------------------------------|
